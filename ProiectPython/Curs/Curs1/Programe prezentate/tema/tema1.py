@@ -4,7 +4,7 @@ Zori de ziua se revarsa peste vesela natura, Prevestind un soare dulce cu lumina
 '''
 
 
-#a.Titlul sa fie indentat cu trei tab-uri si sa sune un beep la rulare utilizand secvente de evadare
+#a.Titlul sa fie indentat cu trei tab-uri si sa sune un beep la rulare utilizand secvente de evadare.
 print "\t\t\t\aDimineata de Vasile Alexandri"
 
 #b.Primele doua randuri sa fie printat utilizand ghilimelele triple formate din ghilimea simpla
